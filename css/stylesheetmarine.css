@@ -1,5 +1,6 @@
 body{
 	margin: 0;
+	font-family: 'Roboto', sans-serif;
 }
 
 
@@ -19,7 +20,6 @@ body{
 		margin-right: auto;
 		padding-top: 100px ;
 		padding-bottom: 100px;
-		font-family: 'Roboto', sans-serif;
 		text-align: center;
 	}
 
@@ -90,7 +90,6 @@ body{
 		margin-right: auto;
 		padding-top: 100px ;
 		padding-bottom: 100px;
-		font-family: 'Roboto', sans-serif;
 		text-align: center;
 	}
 
@@ -173,7 +172,6 @@ body{
 	}
 
 	footer p{
-		font-family: 'Roboto', sans-serif; 
 		color: #4b5456;
 		font-size: 18px;
 		font-weight: 500;
