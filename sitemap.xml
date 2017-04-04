@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://localhost/index.html">
+
+   <url>
+    <loc>http://localhost/index.html/#home</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url> 
+
+   <url>
+    <loc>http://localhost/index.html/#aboutme</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url>
+
+   <url>
+    <loc>http://localhost/index.html/#skills</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url>
+
+   <url>
+    <loc>http://localhost/index.html/#resume</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url>
+
+   <url>
+    <loc>http://localhost/index.html/#testi</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url>
+
+   <url>
+    <loc>http://localhost/index.html/#portfolio</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url>
+
+   <url>
+    <loc>http://localhost/index.html/#contactme</loc>
+    <lastmod>2017-03-23</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+   </url> 
+
+ 
+
+</urlset>
